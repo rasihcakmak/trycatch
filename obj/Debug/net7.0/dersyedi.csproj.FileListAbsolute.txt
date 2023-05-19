@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\C#\dersyedi\obj\Debug\net7.0\dersyedi.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\C#\dersyedi\obj\Debug\net7.0\dersyedi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\C#\dersyedi\obj\Debug\net7.0\dersyedi.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\C#\dersyedi\obj\Debug\net7.0\dersyedi.AssemblyInfo.cs
+C:\Users\Asus\Desktop\C#\dersyedi\obj\Debug\net7.0\dersyedi.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C#\dersyedi\bin\Debug\net7.0\dersyedi.exe
+C:\Users\Asus\Desktop\C#\dersyedi\bin\Debug\net7.0\dersyedi.deps.json
+C:\Users\Asus\Desktop\C#\dersyedi\bin\Debug\net7.0\dersyedi.runtimeconfig.json
+C:\Users\Asus\Desktop\C#\dersyedi\bin\Debug\net7.0\dersyedi.dll
+C:\Users\Asus\Desktop\C#\dersyedi\bin\Debug\net7.0\dersyedi.pdb
+C:\Users\Asus\Desktop\C#\dersyedi\obj\Debug\net7.0\dersyedi.dll
+C:\Users\Asus\Desktop\C#\dersyedi\obj\Debug\net7.0\refint\dersyedi.dll
+C:\Users\Asus\Desktop\C#\dersyedi\obj\Debug\net7.0\dersyedi.pdb
+C:\Users\Asus\Desktop\C#\dersyedi\obj\Debug\net7.0\dersyedi.genruntimeconfig.cache
+C:\Users\Asus\Desktop\C#\dersyedi\obj\Debug\net7.0\ref\dersyedi.dll
